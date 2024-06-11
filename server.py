@@ -3,9 +3,10 @@ import strawberry
 from strawberry.fastapi import GraphQLRouter
 from database import SessionLocal, database
 from queries import Query
-from mutations import Mutation
+from mutations import Mutation, pubsub
+from subscriptions import Subscription
 
-schema = strawberry.Schema(query=Query, mutation=Mutation)
+schema = strawberry.Schema(query=Query, mutation=Mutation, subscription=Subscription)
 
 def get_db():
     db = SessionLocal()
@@ -18,7 +19,7 @@ app = FastAPI()
 
 graphql_app = GraphQLRouter(
     schema,
-    context_getter=lambda: {"db": next(get_db())}
+    context_getter=lambda: {"db": next(get_db()), "pubsub": pubsub}
 )
 
 @app.on_event("startup")
