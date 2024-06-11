@@ -3,8 +3,9 @@ import strawberry
 from strawberry.fastapi import GraphQLRouter
 from database import SessionLocal, database
 from queries import Query
-from mutations import Mutation, pubsub
+from mutations import Mutation
 from subscriptions import Subscription
+from pubsub import pubsub
 
 schema = strawberry.Schema(query=Query, mutation=Mutation, subscription=Subscription)
 

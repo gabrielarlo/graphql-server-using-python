@@ -1,0 +1,675 @@
+[
+    {
+        "label": "strawberry",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "strawberry",
+        "description": "strawberry",
+        "detail": "strawberry",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "AsyncGenerator",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Session",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "Session",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "sessionmaker",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "models",
+        "description": "models",
+        "isExtraImport": true,
+        "detail": "models",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "models",
+        "description": "models",
+        "isExtraImport": true,
+        "detail": "models",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "models",
+        "description": "models",
+        "isExtraImport": true,
+        "detail": "models",
+        "documentation": {}
+    },
+    {
+        "label": "UserType",
+        "importPath": "m_types",
+        "description": "m_types",
+        "isExtraImport": true,
+        "detail": "m_types",
+        "documentation": {}
+    },
+    {
+        "label": "UserType",
+        "importPath": "m_types",
+        "description": "m_types",
+        "isExtraImport": true,
+        "detail": "m_types",
+        "documentation": {}
+    },
+    {
+        "label": "UserType",
+        "importPath": "m_types",
+        "description": "m_types",
+        "isExtraImport": true,
+        "detail": "m_types",
+        "documentation": {}
+    },
+    {
+        "label": "Info",
+        "importPath": "strawberry.types",
+        "description": "strawberry.types",
+        "isExtraImport": true,
+        "detail": "strawberry.types",
+        "documentation": {}
+    },
+    {
+        "label": "Info",
+        "importPath": "strawberry.types",
+        "description": "strawberry.types",
+        "isExtraImport": true,
+        "detail": "strawberry.types",
+        "documentation": {}
+    },
+    {
+        "label": "date",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "date",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "pubsub",
+        "importPath": "pubsub",
+        "description": "pubsub",
+        "isExtraImport": true,
+        "detail": "pubsub",
+        "documentation": {}
+    },
+    {
+        "label": "pubsub",
+        "importPath": "pubsub",
+        "description": "pubsub",
+        "isExtraImport": true,
+        "detail": "pubsub",
+        "documentation": {}
+    },
+    {
+        "label": "pubsub",
+        "importPath": "pubsub",
+        "description": "pubsub",
+        "isExtraImport": true,
+        "detail": "pubsub",
+        "documentation": {}
+    },
+    {
+        "label": "asyncio",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "asyncio",
+        "description": "asyncio",
+        "detail": "asyncio",
+        "documentation": {}
+    },
+    {
+        "label": "Base",
+        "importPath": "database",
+        "description": "database",
+        "isExtraImport": true,
+        "detail": "database",
+        "documentation": {}
+    },
+    {
+        "label": "engine",
+        "importPath": "database",
+        "description": "database",
+        "isExtraImport": true,
+        "detail": "database",
+        "documentation": {}
+    },
+    {
+        "label": "Base",
+        "importPath": "database",
+        "description": "database",
+        "isExtraImport": true,
+        "detail": "database",
+        "documentation": {}
+    },
+    {
+        "label": "SessionLocal",
+        "importPath": "database",
+        "description": "database",
+        "isExtraImport": true,
+        "detail": "database",
+        "documentation": {}
+    },
+    {
+        "label": "database",
+        "importPath": "database",
+        "description": "database",
+        "isExtraImport": true,
+        "detail": "database",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "create_engine",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "MetaData",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Column",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Integer",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "String",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Date",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "declarative_base",
+        "importPath": "sqlalchemy.ext.declarative",
+        "description": "sqlalchemy.ext.declarative",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.ext.declarative",
+        "documentation": {}
+    },
+    {
+        "label": "Database",
+        "importPath": "databases",
+        "description": "databases",
+        "isExtraImport": true,
+        "detail": "databases",
+        "documentation": {}
+    },
+    {
+        "label": "load_dotenv",
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "isExtraImport": true,
+        "detail": "dotenv",
+        "documentation": {}
+    },
+    {
+        "label": "load_dotenv",
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "isExtraImport": true,
+        "detail": "dotenv",
+        "documentation": {}
+    },
+    {
+        "label": "quote_plus",
+        "importPath": "urllib.parse",
+        "description": "urllib.parse",
+        "isExtraImport": true,
+        "detail": "urllib.parse",
+        "documentation": {}
+    },
+    {
+        "label": "relativedelta",
+        "importPath": "dateutil.relativedelta",
+        "description": "dateutil.relativedelta",
+        "isExtraImport": true,
+        "detail": "dateutil.relativedelta",
+        "documentation": {}
+    },
+    {
+        "label": "uvicorn",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "uvicorn",
+        "description": "uvicorn",
+        "detail": "uvicorn",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "importPath": "server",
+        "description": "server",
+        "isExtraImport": true,
+        "detail": "server",
+        "documentation": {}
+    },
+    {
+        "label": "Mutation",
+        "importPath": "mutations",
+        "description": "mutations",
+        "isExtraImport": true,
+        "detail": "mutations",
+        "documentation": {}
+    },
+    {
+        "label": "Mutation",
+        "importPath": "mutations",
+        "description": "mutations",
+        "isExtraImport": true,
+        "detail": "mutations",
+        "documentation": {}
+    },
+    {
+        "label": "logging",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "logging",
+        "description": "logging",
+        "detail": "logging",
+        "documentation": {}
+    },
+    {
+        "label": "FastAPI",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "GraphQLRouter",
+        "importPath": "strawberry.fastapi",
+        "description": "strawberry.fastapi",
+        "isExtraImport": true,
+        "detail": "strawberry.fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Query",
+        "importPath": "queries",
+        "description": "queries",
+        "isExtraImport": true,
+        "detail": "queries",
+        "documentation": {}
+    },
+    {
+        "label": "Subscription",
+        "importPath": "subscriptions",
+        "description": "subscriptions",
+        "isExtraImport": true,
+        "detail": "subscriptions",
+        "documentation": {}
+    },
+    {
+        "label": "CreateUserInput",
+        "kind": 6,
+        "importPath": "mutations.user_mutations",
+        "description": "mutations.user_mutations",
+        "peekOfCode": "class CreateUserInput:\n    name: str\n    bdate: date\n@strawberry.input\nclass UpdateUserInput:\n    id: int\n    name: Optional[str] = None\n    bdate: Optional[date] = None\n@strawberry.type\nclass UserMutation:",
+        "detail": "mutations.user_mutations",
+        "documentation": {}
+    },
+    {
+        "label": "UpdateUserInput",
+        "kind": 6,
+        "importPath": "mutations.user_mutations",
+        "description": "mutations.user_mutations",
+        "peekOfCode": "class UpdateUserInput:\n    id: int\n    name: Optional[str] = None\n    bdate: Optional[date] = None\n@strawberry.type\nclass UserMutation:\n    @strawberry.mutation\n    async def create_user(self, info: Info, input: CreateUserInput) -> UserType:\n        db: Session = info.context[\"db\"]\n        user = SQLAlchemyUser(name=input.name, bdate=input.bdate)",
+        "detail": "mutations.user_mutations",
+        "documentation": {}
+    },
+    {
+        "label": "UserMutation",
+        "kind": 6,
+        "importPath": "mutations.user_mutations",
+        "description": "mutations.user_mutations",
+        "peekOfCode": "class UserMutation:\n    @strawberry.mutation\n    async def create_user(self, info: Info, input: CreateUserInput) -> UserType:\n        db: Session = info.context[\"db\"]\n        user = SQLAlchemyUser(name=input.name, bdate=input.bdate)\n        db.add(user)\n        db.commit()\n        db.refresh(user)\n        await pubsub.publish(\"user_created\", user)\n        await pubsub.publish(f\"user_{user.id}_updated\", user)",
+        "detail": "mutations.user_mutations",
+        "documentation": {}
+    },
+    {
+        "label": "OtherQuery",
+        "kind": 6,
+        "importPath": "queries.other_queries",
+        "description": "queries.other_queries",
+        "peekOfCode": "class OtherQuery:\n    @strawberry.field\n    def hello(self) -> str:\n        return \"Hello, world!\"",
+        "detail": "queries.other_queries",
+        "documentation": {}
+    },
+    {
+        "label": "UserQuery",
+        "kind": 6,
+        "importPath": "queries.user_queries",
+        "description": "queries.user_queries",
+        "peekOfCode": "class UserQuery:\n    @strawberry.field\n    async def users(self, info: Info) -> List[UserType]:\n        db: Session = info.context[\"db\"]\n        users = db.query(SQLAlchemyUser).all()\n        return [\n            UserType(\n                id=user.id,\n                name=user.name,\n                age=UserType.calculate_age(user.bdate)",
+        "detail": "queries.user_queries",
+        "documentation": {}
+    },
+    {
+        "label": "UserSubscription",
+        "kind": 6,
+        "importPath": "subscriptions.user_subscriptions",
+        "description": "subscriptions.user_subscriptions",
+        "peekOfCode": "class UserSubscription:\n    @strawberry.subscription\n    async def user_created(self) -> AsyncGenerator[Optional[UserType], None]:\n        queue = await pubsub.subscribe(\"user_created\")\n        try:\n            while True:\n                try:\n                    user = await asyncio.wait_for(queue.get(), timeout=10.0)\n                    yield UserType(id=user.id, name=user.name, age=UserType.calculate_age(user.bdate))\n                except asyncio.TimeoutError:",
+        "detail": "subscriptions.user_subscriptions",
+        "documentation": {}
+    },
+    {
+        "label": "DATABASE_USER",
+        "kind": 5,
+        "importPath": "database",
+        "description": "database",
+        "peekOfCode": "DATABASE_USER = os.getenv(\"DATABASE_USER\")\nDATABASE_PASSWORD = quote_plus(os.getenv(\"DATABASE_PASSWORD\"))\nDATABASE_HOST = os.getenv(\"DATABASE_HOST\")\nDATABASE_NAME = os.getenv(\"DATABASE_NAME\")\nDATABASE_URL = f\"mysql+pymysql://{DATABASE_USER}:{DATABASE_PASSWORD}@{DATABASE_HOST}/{DATABASE_NAME}\"\ndatabase = Database(DATABASE_URL)\nmetadata = MetaData()\nengine = create_engine(DATABASE_URL)\nSessionLocal = sessionmaker(autocommit=False, autoflush=False, bind=engine)\nBase = declarative_base()",
+        "detail": "database",
+        "documentation": {}
+    },
+    {
+        "label": "DATABASE_PASSWORD",
+        "kind": 5,
+        "importPath": "database",
+        "description": "database",
+        "peekOfCode": "DATABASE_PASSWORD = quote_plus(os.getenv(\"DATABASE_PASSWORD\"))\nDATABASE_HOST = os.getenv(\"DATABASE_HOST\")\nDATABASE_NAME = os.getenv(\"DATABASE_NAME\")\nDATABASE_URL = f\"mysql+pymysql://{DATABASE_USER}:{DATABASE_PASSWORD}@{DATABASE_HOST}/{DATABASE_NAME}\"\ndatabase = Database(DATABASE_URL)\nmetadata = MetaData()\nengine = create_engine(DATABASE_URL)\nSessionLocal = sessionmaker(autocommit=False, autoflush=False, bind=engine)\nBase = declarative_base()",
+        "detail": "database",
+        "documentation": {}
+    },
+    {
+        "label": "DATABASE_HOST",
+        "kind": 5,
+        "importPath": "database",
+        "description": "database",
+        "peekOfCode": "DATABASE_HOST = os.getenv(\"DATABASE_HOST\")\nDATABASE_NAME = os.getenv(\"DATABASE_NAME\")\nDATABASE_URL = f\"mysql+pymysql://{DATABASE_USER}:{DATABASE_PASSWORD}@{DATABASE_HOST}/{DATABASE_NAME}\"\ndatabase = Database(DATABASE_URL)\nmetadata = MetaData()\nengine = create_engine(DATABASE_URL)\nSessionLocal = sessionmaker(autocommit=False, autoflush=False, bind=engine)\nBase = declarative_base()",
+        "detail": "database",
+        "documentation": {}
+    },
+    {
+        "label": "DATABASE_NAME",
+        "kind": 5,
+        "importPath": "database",
+        "description": "database",
+        "peekOfCode": "DATABASE_NAME = os.getenv(\"DATABASE_NAME\")\nDATABASE_URL = f\"mysql+pymysql://{DATABASE_USER}:{DATABASE_PASSWORD}@{DATABASE_HOST}/{DATABASE_NAME}\"\ndatabase = Database(DATABASE_URL)\nmetadata = MetaData()\nengine = create_engine(DATABASE_URL)\nSessionLocal = sessionmaker(autocommit=False, autoflush=False, bind=engine)\nBase = declarative_base()",
+        "detail": "database",
+        "documentation": {}
+    },
+    {
+        "label": "DATABASE_URL",
+        "kind": 5,
+        "importPath": "database",
+        "description": "database",
+        "peekOfCode": "DATABASE_URL = f\"mysql+pymysql://{DATABASE_USER}:{DATABASE_PASSWORD}@{DATABASE_HOST}/{DATABASE_NAME}\"\ndatabase = Database(DATABASE_URL)\nmetadata = MetaData()\nengine = create_engine(DATABASE_URL)\nSessionLocal = sessionmaker(autocommit=False, autoflush=False, bind=engine)\nBase = declarative_base()",
+        "detail": "database",
+        "documentation": {}
+    },
+    {
+        "label": "database",
+        "kind": 5,
+        "importPath": "database",
+        "description": "database",
+        "peekOfCode": "database = Database(DATABASE_URL)\nmetadata = MetaData()\nengine = create_engine(DATABASE_URL)\nSessionLocal = sessionmaker(autocommit=False, autoflush=False, bind=engine)\nBase = declarative_base()",
+        "detail": "database",
+        "documentation": {}
+    },
+    {
+        "label": "metadata",
+        "kind": 5,
+        "importPath": "database",
+        "description": "database",
+        "peekOfCode": "metadata = MetaData()\nengine = create_engine(DATABASE_URL)\nSessionLocal = sessionmaker(autocommit=False, autoflush=False, bind=engine)\nBase = declarative_base()",
+        "detail": "database",
+        "documentation": {}
+    },
+    {
+        "label": "engine",
+        "kind": 5,
+        "importPath": "database",
+        "description": "database",
+        "peekOfCode": "engine = create_engine(DATABASE_URL)\nSessionLocal = sessionmaker(autocommit=False, autoflush=False, bind=engine)\nBase = declarative_base()",
+        "detail": "database",
+        "documentation": {}
+    },
+    {
+        "label": "SessionLocal",
+        "kind": 5,
+        "importPath": "database",
+        "description": "database",
+        "peekOfCode": "SessionLocal = sessionmaker(autocommit=False, autoflush=False, bind=engine)\nBase = declarative_base()",
+        "detail": "database",
+        "documentation": {}
+    },
+    {
+        "label": "Base",
+        "kind": 5,
+        "importPath": "database",
+        "description": "database",
+        "peekOfCode": "Base = declarative_base()",
+        "detail": "database",
+        "documentation": {}
+    },
+    {
+        "label": "UserType",
+        "kind": 6,
+        "importPath": "m_types",
+        "description": "m_types",
+        "peekOfCode": "class UserType:\n    id: int\n    name: str\n    age: int\n    @staticmethod\n    def calculate_age(bdate: date) -> int:\n        today = date.today()\n        return relativedelta(today, bdate).years",
+        "detail": "m_types",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "kind": 6,
+        "importPath": "models",
+        "description": "models",
+        "peekOfCode": "class User(Base):\n    __tablename__ = \"users\"\n    id = Column(Integer, primary_key=True, index=True)\n    name = Column(String(255), index=True)\n    bdate = Column(Date)",
+        "detail": "models",
+        "documentation": {}
+    },
+    {
+        "label": "schema",
+        "kind": 5,
+        "importPath": "mutations",
+        "description": "mutations",
+        "peekOfCode": "schema = strawberry.Schema(mutation=Mutation)",
+        "detail": "mutations",
+        "documentation": {}
+    },
+    {
+        "label": "PubSub",
+        "kind": 6,
+        "importPath": "pubsub",
+        "description": "pubsub",
+        "peekOfCode": "class PubSub:\n    def __init__(self):\n        self.channels: Dict[str, List[asyncio.Queue]] = {}\n    async def publish(self, channel: str, message: Any):\n        logging.info(f\"Publishing to channel {channel}: {message}\")\n        if channel in self.channels:\n            for queue in self.channels[channel]:\n                await queue.put(message)\n    async def subscribe(self, channel: str) -> asyncio.Queue:\n        queue = asyncio.Queue()",
+        "detail": "pubsub",
+        "documentation": {}
+    },
+    {
+        "label": "pubsub",
+        "kind": 5,
+        "importPath": "pubsub",
+        "description": "pubsub",
+        "peekOfCode": "pubsub = PubSub()",
+        "detail": "pubsub",
+        "documentation": {}
+    },
+    {
+        "label": "schema",
+        "kind": 5,
+        "importPath": "queries",
+        "description": "queries",
+        "peekOfCode": "schema = strawberry.Schema(query=Query)",
+        "detail": "queries",
+        "documentation": {}
+    },
+    {
+        "label": "get_db",
+        "kind": 2,
+        "importPath": "server",
+        "description": "server",
+        "peekOfCode": "def get_db():\n    db = SessionLocal()\n    try:\n        yield db\n    finally:\n        db.close()\napp = FastAPI()\ngraphql_app = GraphQLRouter(\n    schema,\n    context_getter=lambda: {\"db\": next(get_db()), \"pubsub\": pubsub}",
+        "detail": "server",
+        "documentation": {}
+    },
+    {
+        "label": "schema",
+        "kind": 5,
+        "importPath": "server",
+        "description": "server",
+        "peekOfCode": "schema = strawberry.Schema(query=Query, mutation=Mutation, subscription=Subscription)\ndef get_db():\n    db = SessionLocal()\n    try:\n        yield db\n    finally:\n        db.close()\napp = FastAPI()\ngraphql_app = GraphQLRouter(\n    schema,",
+        "detail": "server",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "server",
+        "description": "server",
+        "peekOfCode": "app = FastAPI()\ngraphql_app = GraphQLRouter(\n    schema,\n    context_getter=lambda: {\"db\": next(get_db()), \"pubsub\": pubsub}\n)\n@app.on_event(\"startup\")\nasync def startup():\n    await database.connect()\n@app.on_event(\"shutdown\")\nasync def shutdown():",
+        "detail": "server",
+        "documentation": {}
+    },
+    {
+        "label": "graphql_app",
+        "kind": 5,
+        "importPath": "server",
+        "description": "server",
+        "peekOfCode": "graphql_app = GraphQLRouter(\n    schema,\n    context_getter=lambda: {\"db\": next(get_db()), \"pubsub\": pubsub}\n)\n@app.on_event(\"startup\")\nasync def startup():\n    await database.connect()\n@app.on_event(\"shutdown\")\nasync def shutdown():\n    await database.disconnect()",
+        "detail": "server",
+        "documentation": {}
+    },
+    {
+        "label": "app.dependency_overrides[get_db]",
+        "kind": 5,
+        "importPath": "server",
+        "description": "server",
+        "peekOfCode": "app.dependency_overrides[get_db] = get_db",
+        "detail": "server",
+        "documentation": {}
+    },
+    {
+        "label": "schema",
+        "kind": 5,
+        "importPath": "subscriptions",
+        "description": "subscriptions",
+        "peekOfCode": "schema = strawberry.Schema(subscription=Subscription)",
+        "detail": "subscriptions",
+        "documentation": {}
+    }
+]
