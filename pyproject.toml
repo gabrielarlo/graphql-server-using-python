@@ -1,0 +1,23 @@
+[tool.poetry]
+name = "graphql-server"
+version = "0.1.0"
+description = ""
+authors = ["Arlo Gabriel <gabrielarlo11@gmail.com>"]
+package-mode = false
+
+[tool.poetry.dependencies]
+python = "^3.8"
+fastapi = "0.111.0"
+strawberry-graphql = "^0.235.0"
+uvicorn = "^0.18.3"
+sqlalchemy = "^1.4.41"
+databases = "^0.5.5"
+pymysql = "^1.0.2"
+python-dotenv = "^1.0.0"
+pydantic = "^1.10.2"
+python-dateutil = "^2.8.2"
+aiomysql = "^0.2.0"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
